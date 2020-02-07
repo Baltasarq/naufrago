@@ -7,3 +7,6 @@ A pesar de cumplir con todas las normas de seguridad, la temperatura del agua, e
 Las circunstancias del hundimiento continúan siendo un misterio. Algunos testimonios afirman que la compuerta de acceso para vehículos se abrió por alguna circunstancia, haciendo que el ferry se inundara rápidamente. La compuerta había pasado los chequeos de seguridad sin aparentes fallos.
 
 Posteriores investigaciones revelaron que la causa del hundimiento podría estar relacionada con el contrabando de armas desde Rusia...
+
+ Despiertas en un bote salvavidas, en el que deberás sobrevivir.
+ 
