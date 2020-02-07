@@ -846,7 +846,7 @@ objCellPhone.preStart = function() {
 // **************************************************************** End game --
 function amusing() {
     return "<i><b>Náufrago</b> es una aventura conversacional que escribí hace \
-            ya muchos años (en 2004), usando Superglús. \
+            ya muchos años (en 2007), usando Superglús. \
             La escribí para un concurso de ficción interactiva \
             fuera del CAAD, en donde no tuvo mucha acogida. \
             En este caso (la segunda revisión), \
