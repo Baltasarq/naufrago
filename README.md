@@ -10,3 +10,4 @@ Posteriores investigaciones revelaron que la causa del hundimiento podría estar
 
  Despiertas en un bote salvavidas, en el que deberás sobrevivir.
  
+<a href="https://baltasarq.github.io/naufrago/">Jugar a "náufrago."</a>
