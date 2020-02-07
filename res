@@ -1,0 +1,1 @@
+naufrago-fijs/app/www/res

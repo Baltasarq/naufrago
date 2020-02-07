@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>E27F3D20-B744-4B61-AD94-CF857F5019AD</ifid>
+            <format>html</format>
+        </identification>
+        <bibliographic>
+            <title>Náufrago</title>
+            <author>Baltasar</author>
+            <language>ES</language>
+            <headline>El hundimiento del Estonia: perdido en el Báltico.</headline>
+            <genre>mistery</genre>
+            <forgiveness>polite</forgiveness>
+            <description>29 de Septiembre de 1994<br/><br/>El ferry “Estonia”, se hunde en el mar Báltico, llevándose consigo 850 personas.<br/><br/>A pesar de cumplir con todas las normas de seguridad, la temperatura del agua, extremadamente baja, unida a la rapidez con la que se hundió el navío, hicieron imposible que la mayoría del pasaje se salvara.<br/><br/>Las circunstancias del hundimiento continúan siendo un misterio. Algunos testimonios afirman que la compuerta de acceso para vehículos se abrió por alguna circunstancia, haciendo que el ferry se inundara rápidamente. La compuerta había pasado los chequeos de seguridad sin aparentes fallos.<br/><br/>Posteriores investigaciones revelaron que la causa del hundimiento podría estar relacionada con el contrabando de armas desde Rusia...</description>
+        </bibliographic>
+        <contacts>
+            <authoremail>baltasarq@gmail.com</authoremail>
+            <url>http://caad.es/baltasarq/</url>
+        </contacts>
+        <release>
+            <version>2</version>
+            <releasedate>2020/01/25</releasedate>
+        </release>
+        <colophon>
+            <generator>Babble</generator>
+            <originated>2020/01/25</originated>
+        </colophon>
+    </story>
+</ifindex>

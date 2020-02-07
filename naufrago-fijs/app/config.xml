@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.devbaltasarq.naufrago" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Náufrago</name>
+    <description>
+        29 de Septiembre de 1994. El ferry ”Estonia” se hunde en el mar Báltico, llevándose consigo 850 personas.
+
+        A pesar de cumplir con todas las normas de seguridad, la temperatura del agua, extremadamente baja, unida a la rapidez con la que se hundió el navío, hicieron imposible que la mayoría del pasaje se salvara.
+
+        Las circunstancias del hundimiento continúan siendo un misterio. Algunos testimonios afirman que la compuerta de acceso para vehículos se abrió por alguna circunstancia, haciendo que el ferry se inundara rápidamente. La compuerta había pasado los chequeos de seguridad sin aparentes fallos.
+
+        Posteriores investigaciones revelaron que la causa del hundimiento podría estar relacionada con el contrabando de armas desde Rusia...
+
+        Despiertas en un bote salvavidas, en el que deberás sobrevivir.
+    </description>
+    <author email="baltasarq@gmail.com" href="http://baltasarq.info/">
+        Baltasar
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>

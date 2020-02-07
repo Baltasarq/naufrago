@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Náufrago</title>
+            <author>Baltasar</author>
+            <language>ES</language>
+            <headline>Perdido en el báltico</headline>
+            <genre>Mistery</genre>
+            <description>El 29 de Septiembre de 1994, el ferry "Estonia", se hunde en el mar Báltico, en extrañas circunstancias. Estás perdido en el mar, a bordo de una mísera lancha salvavidas, tras el hundimiento del Ferry.</description>
+        </bibliographic>
+        <contacts>
+            <authoremail>baltasarq@yahoo.es</authoremail>
+            <url>http://caad.es/baltasarq/</url>
+        </contacts>
+        <release>
+            <version>1</version>
+            <releasedate>2009/05/18</releasedate>
+        </release>
+        <colophon>
+            <generator>Inferno</generator>
+            <originated>2009/05/18</originated>
+        </colophon>
+    </story>
+</ifindex>
