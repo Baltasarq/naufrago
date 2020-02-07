@@ -1,1 +1,1 @@
-app/www/naufrago.js
+naufrago-fijs/app/www/naufrago.js
