@@ -26,6 +26,26 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        
+        
+        <!--
+        	ldpi    : 36x36 px
+        	mdpi    : 48x48 px
+        	hdpi    : 72x72 px
+        	xhdpi   : 96x96 px
+        	xxhdpi  : 144x144 px
+        	xxxhdpi : 192x192 px
+    	-->
+
+        <icon density="ldpi" src="res/icon/android/lifesaver-ldpi.png" />
+        <icon density="mdpi" src="res/icon/android/lifesaver-mdpi.png" />
+        <icon density="hdpi" src="res/icon/android/lifesaver-hdpi.png" />
+        <icon density="xhdpi" src="res/icon/android/lifesaver-xhdpi.png" />
+        <icon density="xxhdpi" src="res/icon/android/lifesaver-xxhdpi.png" />
+        <icon density="xxxhdpi" src="res/icon/android/lifesaver-xxxhdpi.png" />
+
+        <icon src="res/icon/android/lifesaver.png" />
+        <splash src="res/icon/android/lifesaver.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
