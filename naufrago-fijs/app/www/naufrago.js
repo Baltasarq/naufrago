@@ -54,7 +54,7 @@ locBoat.prePush = function() {
                             pero tú seguiste remando... \
                             hasta caer extenuado \
                             sobre el fondo del bote.</p>\
-                            <p>No podías -¿no es cierto?-, \
+                            <p>No podías ─¿no es cierto?─, \
                             había demasiada gente en el agua ─¿no?─, \
                             hubiesen hecho volcar el bote salvavidas, \
                             y entonces no habría sobrevivido ninguno.";
@@ -501,7 +501,7 @@ locClinic.preExamine = function() {
                   <br/>─Soy ... Warren Buffett.\
                   <br/>El médico (ahora ves que es un médico), \
                   enarca ligeramente las cejas.\
-                  <br/>─ Comprendo.\
+                  <br/>─Comprendo.\
                   <br/>─Trate de descansar, y no se levante.\
                   <br/>─Gracias... doctor...\
                   <br/>─De nada. No se preocupe. Sobre todo, recupérese.\
@@ -624,6 +624,7 @@ pncScarFace.preTalk = function() {
     }
 };
 
+
 // ************************************************************ Achievements --
 ctrl.achievements.add( "mariner",
                        "Marinero (reparaste la lancha)." );
@@ -636,6 +637,7 @@ ctrl.achievements.add( "rescued",
 
 ctrl.achievements.add( "memento",
                        "Memento (¡<i>memento mori!</i>)." );
+
 
 // ******************************************************************* Boot ---
 const player = ctrl.personas.creaPersona( "Warren Buffet", [],
@@ -722,7 +724,7 @@ objCellPhone.prePush = function() {
                  <br/>─Tranquilícese, señor, ¿puede ver algo que \
                  indique su posición?\
                  <br/>─No, no... no.\
-                 <br/>─ Está bien. ¿Puede describir el bote?\
+                 <br/>─Está bien. ¿Puede describir el bote?\
                  <br/>Casi no puedes contener una risa nerviosa... \
                  ─claro que puedo, estoy harto de verlo─, piensas.\
                  <br/>─Es un bote salvavidas rojo.\
@@ -888,6 +890,7 @@ function endGame(won, pic, msg)
     
     ctrl.endGame( msg, pic );
 }
+
 
 // **************************************************************** Puncture --
 ctrl.addDaemon( "puncture",
