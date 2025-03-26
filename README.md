@@ -13,6 +13,3 @@ Posteriores investigaciones revelaron que la causa del hundimiento podría estar
 <a href="https://baltasarq.github.io/naufrago/">Jugar a "náufrago."</a>
 
 Este juego utiliza el <a href="http://github.com/baltasarq/fi-js/">framework fi.js</a>.
-
-
-<a href='https://play.google.com/store/apps/details?id=com.devbaltasarq.naufrago&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200px" alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png'/></a>
