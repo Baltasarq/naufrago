@@ -1,1 +1,0 @@
-naufrago-fijs/app/www/naufrago.js
